@@ -283,17 +283,17 @@ hr {
 .recipe-rating {
     font-size: 1.2em;
     letter-spacing: 0.05em;
-    color: var(--primary);
+    color: rgba(223, 145, 55, 0.555);
     
     span {
-        color: var(--grey);
+        color: rgb(179, 179, 179);
     }
 }
 
 .recipe-votes {
     font-size: .825em;
     font-style: italic;
-    color: var(--lightgrey);
+    color: rgb(91, 92, 92);
 }
 
 .recipe-save {
@@ -302,7 +302,7 @@ hr {
     padding: 6px 14px 6px 12px;
     border-radius: 4px;
     border: 2px solid currentColor;
-    color: var(--primary);
+    color: rgb(27, 126, 113);
     background: none;
     cursor: pointer;
     font-weight: bold;
