@@ -68,9 +68,10 @@
 }
 
 footer{
-  background-color: rgb(65, 65, 65);
-  text-align: center;
+  background-color: rgba(61, 194, 143, 0.192);
+  text-align: left;
   top: 0%;
+  padding: 50px;
 }
 
 .seccion-footer{
