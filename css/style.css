@@ -1,39 +1,10 @@
 *{
-    margin: 0px;
-    padding: 0px;
-    font-family: "Oxygen", sans-serif;
-}
-
-header{
-    display: flex;
-    align-items: center;
-    position: sticky;
-    top: 0;
-    background-color: rgb(139, 119, 252);
-}
-
-
-
-.logo {
-    margin: 15px;
-    width: 300px;
-    border-radius: 10px;
-}
-
-nav {
-    a {
-      font-family: 'Arial', serif;
-      font-size: 12px;
-      text-transform: uppercase;
-      letter-spacing: 3px;
-      text-decoration: none;
-      margin: 0px 15px 0 15px;
-    }
+  margin: 0px;
+  padding: 0px;
 }
 
 .main-title{
   text-align: center;
-  margin: 100px;
 }
 
 .banner1{
